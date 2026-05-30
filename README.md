@@ -25,4 +25,4 @@ poetry run adk web
 
 ## Autor
 
-Tu nombre
+Maria Cañazaca
